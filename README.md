@@ -1,3 +1,8 @@
+# Data Analysis Portfolio
+
+This repository contains real-world data analysis projects focused on business insights and decision-making.
+
+## Project 1: Sales & Profit Analysis
 # sales-analysis-superstore
 Sales and profit analysis using Python
 # Sales & Profit Analysis (Superstore Dataset)
@@ -35,6 +40,7 @@ Superstore dataset containing sales, profit, discount, and product categories.
 - Higher discounts often reduce profitability
 - Furniture category suffers from inefficient discount strategy
 - Some categories (Technology) handle discounts better
+<img width="712" height="566" alt="image" src="https://github.com/user-attachments/assets/9412e710-6c44-4004-bd49-f44c2aa1a2b3" />
 
 ## Key Insight
 Discounting does not always lead to higher profit.  
@@ -50,6 +56,8 @@ In some cases, excessive discounting destroys margins.
 - Python
 - Pandas
 - Matplotlib
+
+
 
 - ## Project 2: E-commerce Return Analysis
 
