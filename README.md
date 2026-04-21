@@ -50,3 +50,18 @@ In some cases, excessive discounting destroys margins.
 - Python
 - Pandas
 - Matplotlib
+
+- ## Project 2: E-commerce Return Analysis
+
+Analysis of revenue and return patterns across countries using real-world retail data.
+
+Key findings:
+- Germany identified as high-impact risk (high revenue + high return rate)
+- Return behavior varies by country
+- Product-level analysis shows localized issues
+<img width="1115" height="634" alt="image" src="https://github.com/user-attachments/assets/99e8221a-0122-4177-a2af-e52057766a8a" />
+
+Tools:
+- Python
+- Pandas
+- Matplotlib
