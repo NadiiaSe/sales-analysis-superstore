@@ -1,75 +1,81 @@
-# Data Analysis Portfolio
+# 📊 Data Analysis Portfolio
 
-This repository contains real-world data analysis projects focused on business insights and decision-making.
+**Aspiring Data Analyst** with experience in SQL, Python, and Power BI.  
+Focused on business insights and data-driven decision making.
 
-## Project 1: Sales & Profit Analysis
-# sales-analysis-superstore
-Sales and profit analysis using Python
-# Sales & Profit Analysis (Superstore Dataset)
+---
 
-## Objective
+## 🛠 Skills
+
+- **SQL** (Joins, Aggregations, Window Functions)
+- **Python** (Pandas, Data Analysis, Visualization)
+- **Power BI** (DAX, Dashboards)
+
+---
+
+# 📈 Project 1: Sales & Profit Analysis (Python)
+
+## 🎯 Objective
+
 Analyze sales, profit, and discount impact to identify key drivers of profitability and inefficiencies.
 
-## Dataset
+## 📂 Dataset
+
 Superstore dataset containing sales, profit, discount, and product categories.
 
-## Key Questions
-- Which categories generate the most profit?
-- Are there unprofitable segments?
-- How do discounts affect profitability?
-- Which sub-categories are most efficient?
+## 🔍 Key Insights
 
-## Analysis
+- Technology shows the highest profitability and strong overall performance
+- Furniture has low profit despite high discounts, indicating inefficiency
+- Tables generate the largest losses
+- High discounts often reduce profitability rather than increase it
 
-### 1. Overall Performance
-- Total Sales: high volume
-- Profit is positive but uneven across categories
+## 💡 Recommendation
 
-### 2. Category-Level Insights
-- Technology: highest profit and strong performance
-- Office Supplies: stable and balanced
-- Furniture: low profit despite high discounting
+- Reduce discount levels in low-performing categories like Furniture
+- Focus on high-efficiency segments such as Paper and Technology
+- Optimize pricing strategy to improve margins
 
-### 3. Sub-Category Analysis
-- Tables: largest losses
-- Paper: high profit with low discount → very efficient
-- Binders: high profit but requires heavy discounting → lower efficiency
-- Supplies: low or negative performance
+## 📊 Dashboard Overview
 
-### 4. Discount Impact
-- Higher discounts often reduce profitability
-- Furniture category suffers from inefficient discount strategy
-- Some categories (Technology) handle discounts better
-<img width="712" height="566" alt="image" src="https://github.com/user-attachments/assets/9412e710-6c44-4004-bd49-f44c2aa1a2b3" />
+![Sales Dashboard](https://github.com/user-attachments/assets/9412e710-6c44-4004-bd49-f44c2aa1a2b3)
 
-## Key Insight
-Discounting does not always lead to higher profit.  
-In some cases, excessive discounting destroys margins.
+---
 
-## Recommendations
-- Reduce discounts in Furniture and Tables
-- Focus on high-efficiency categories like Paper and Technology
-- Reevaluate pricing strategy for low-performing segments
-- Monitor discount ROI
+# 📊 Project 2: E-commerce Return Analysis (Power BI)
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
+## 📌 Overview
 
+Analysis of revenue and return patterns across countries to identify high-impact areas for optimization.
 
+## 📊 Key Metrics
 
-- ## Project 2: E-commerce Return Analysis
+- Revenue (Quantity × UnitPrice)
+- Orders
+- Returns
+- Return Rate
 
-Analysis of revenue and return patterns across countries using real-world retail data.
+## 🔍 Key Insights
 
-Key findings:
-- Germany identified as high-impact risk (high revenue + high return rate)
-- Return behavior varies by country
-- Product-level analysis shows localized issues
-<img width="1115" height="634" alt="image" src="https://github.com/user-attachments/assets/99e8221a-0122-4177-a2af-e52057766a8a" />
+- Germany and EIRE represent high-impact markets where elevated return rates (4–5%) coincide with strong revenue
+- The United Kingdom maintains a low return rate (~2%) despite high sales and serves as a reference point
+- Return behavior varies across countries, suggesting localized operational or product-related issues
+- Even a 1% reduction in return rate in high-revenue markets could significantly improve overall performance
 
-Tools:
-- Python
-- Pandas
-- Matplotlib
+## 💡 Recommendation
+
+Focus on reducing return rates in high-revenue markets (Germany, EIRE) to improve overall profitability
+
+## 📊 Dashboard Overview
+
+![Return Analysis Dashboard](https://github.com/user-attachments/assets/99e8221a-0122-4177-a2af-e52057766a8a)
+
+## ⭐ Key Visualization (Scatter)
+
+![Scatter](<img width="1318" height="744" alt="ecommerce_return_analysis" src="https://github.com/user-attachments/assets/feb833db-8cca-4a9e-a3a9-77e4222f7af2" />
+)
+
+## 🛠 Tools
+
+- Power BI
+- DAX
