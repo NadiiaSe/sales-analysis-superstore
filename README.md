@@ -72,8 +72,8 @@ Focus on reducing return rates in high-revenue markets (Germany, EIRE) to improv
 
 ## ⭐ Key Visualization (Scatter)
 
-![Scatter](<img width="1318" height="744" alt="ecommerce_return_analysis" src="https://github.com/user-attachments/assets/feb833db-8cca-4a9e-a3a9-77e4222f7af2" />
-)
+![Scatter]<img width="1333" height="763" alt="image" src="https://github.com/user-attachments/assets/f20f683e-9fb0-4a5e-9315-50d4199e13e4" />
+
 
 ## 🛠 Tools
 
